@@ -1,6 +1,6 @@
 
 // this doesn't help
-//jest.dontMock('rx');
+jest.dontMock("rx");
 
 // this does fix the problem
 //jest.autoMockOff()
